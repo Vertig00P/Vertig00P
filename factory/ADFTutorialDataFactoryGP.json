@@ -1,0 +1,9 @@
+{
+	"name": "ADFTutorialDataFactoryGP",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "659a1027-1269-41b1-a9f0-99155d3022d0",
+		"tenantId": "ffcea58c-766b-4eea-9684-92cc7cb3c5e9"
+	}
+}
